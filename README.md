@@ -32,7 +32,7 @@ Este projeto é um exemplo de aplicativo web construído usando Node.js e Expres
 
 1. **Clone o repositório:**
 ```
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/ewertonHecsley/CRUD-knex.git
 ```
  2. **Instale as dependências:**
 ```
